@@ -215,8 +215,8 @@ section.hero > .container {
   height: 112px;
   align-items: center;
   justify-content: center;
-  padding-top: 24px;
-  padding-bottom: 24px;
+  /* padding-top: 24px;
+  padding-bottom: 24px; */
   margin-bottom: 8px;
   background-color: #f4f4fd;
   border: 1px solid  #8E8F99;
